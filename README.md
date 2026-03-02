@@ -15,3 +15,7 @@ Output of Creating Parquet files
 
 Output after creating Managed Table
 <img width="1915" height="526" alt="image" src="https://github.com/user-attachments/assets/c5db3485-e9e1-47a9-8240-dd742537c1e6" />
+
+# Day 3
+Feature
+<img width="902" height="495" alt="image" src="https://github.com/user-attachments/assets/39d71bd9-4a58-43e5-82ec-b53236018780" />
