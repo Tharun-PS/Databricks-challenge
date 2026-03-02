@@ -1,5 +1,5 @@
 # Databricks-challenge
-Assignments of Databricks-14-Day-AI-Challenge
+Assignments of Databricks-14-Day-AI-Challenge  
 https://indiandataclub.notion.site/Databricks-14-Days-AI-Challenge-2-3039b695c41180648c7bd86ae28377e9
 
 # Day 0
